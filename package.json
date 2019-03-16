@@ -1,0 +1,17 @@
+{
+  "description": "lite-signal",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CitizensFoundation/lite-signal"
+  },
+  "name": "lite-signal",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0"
+  },
+  "version": "0.5",
+  "author": "Various",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  }
+}
